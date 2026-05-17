@@ -1,1 +1,1 @@
-# javaminiproject
+deletepatient://github.com/4al24cs057-dot/javaminiproject/blob/5081bd32c0baac3e3280b5de2156967d244d0f97/deletepatient.jpeg
