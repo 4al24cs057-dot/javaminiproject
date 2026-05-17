@@ -8,3 +8,6 @@ reportsresults:  https://github.com/4al24cs057-dot/javaminiproject/blob/0b38c04d
 
 
 reports:  https://github.com/4al24cs057-dot/javaminiproject/blob/2a5e1f7d4ea832757c6b283d1b949370738b08c7/reports.jpeg
+
+
+updatepatient:  https://github.com/4al24cs057-dot/javaminiproject/blob/8c0172b75eefe4023ff019b57526e3f15d17034a/updatepatient.jpeg
